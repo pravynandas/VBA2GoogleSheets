@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "performance-now": "^2.1.0"
+  }
+}

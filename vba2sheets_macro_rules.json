@@ -1,0 +1,14 @@
+{
+    "Range": {
+        "type": "method",
+        "default": "getRange"
+    },
+    "ActiveSheet": {
+        "type": "parent",
+        "default": "spreadsheet"
+    },
+    "FormulaR1C1": {
+        "type": "value",
+        "default": "setFormula('(.*)')"
+    }
+}
